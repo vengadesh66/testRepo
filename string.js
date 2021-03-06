@@ -1,2 +1,2 @@
-let num="test"
+let num="venki"
 console.log(num)
